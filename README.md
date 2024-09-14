@@ -1,3 +1,7 @@
+![Cover](https://github.com/KrishOnGH/hackpill/blob/6bf45fd02f14f3a3e67fdb993f700462ec9ce45e/image.png)
+
+You can further edit or view this schematic by importing it into kicad.
+
 https://hackclub.slack.com/archives/C07AXU6FCC8/p1723861780385599
 
 I went to [@Adam Turag](https://hackclub.slack.com/team/U074FK60HD5)'s (Hackclub Slack) PCB workshop. 
